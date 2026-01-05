@@ -29,3 +29,7 @@ _build
 *.dir-locals.el
 *.fdb_latexmk
 *.top
+
+# macOS system files
+.DS_Store
+._*
